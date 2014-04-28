@@ -3,6 +3,8 @@
 
   add one element to the beginning of an iterator
 
+  [![Build Status](https://travis-ci.org/jb55/unshift-iterator.png)](https://travis-ci.org/jb55/unshift-iterator)
+
 ## Installation
 
   Install with npm
