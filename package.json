@@ -1,0 +1,19 @@
+{
+  "name": "unshift-iterator",
+  "description": "yield one value and all values from another iterator",
+  "keywords": ["cons", "unshift", "iterator", "generator"],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jb55/unshift-iterator.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony --reporter spec"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  }
+}
